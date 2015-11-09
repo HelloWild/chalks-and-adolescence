@@ -1,0 +1,48 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Type="Plist" Name="main_texture" ID="903cf4fd-4600-4db2-b01b-9d9e4ff93b88" Version="2.3.2.3" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="0" AllowRotation="True" AllowAnySize="True" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="texture/chalk.png" />
+      <FilePathData Path="texture/chalk-box.png" />
+      <FilePathData Path="texture/desk1.png" />
+      <FilePathData Path="texture/desk2.png" />
+      <FilePathData Path="texture/desk3.png" />
+      <FilePathData Path="texture/desk4.png" />
+      <FilePathData Path="texture/desk5.png" />
+      <FilePathData Path="texture/desk6.png" />
+      <FilePathData Path="texture/hair.png" />
+      <FilePathData Path="texture/love.png" />
+      <FilePathData Path="texture/plane.png" />
+      <FilePathData Path="texture/student1.png" />
+      <FilePathData Path="texture/student1-1.png" />
+      <FilePathData Path="texture/student1-2.png" />
+      <FilePathData Path="texture/student1-3.png" />
+      <FilePathData Path="texture/student2.png" />
+      <FilePathData Path="texture/student2-1.png" />
+      <FilePathData Path="texture/student2-2.png" />
+      <FilePathData Path="texture/student2-3.png" />
+      <FilePathData Path="texture/student3.png" />
+      <FilePathData Path="texture/student3-1.png" />
+      <FilePathData Path="texture/student3-2.png" />
+      <FilePathData Path="texture/student3-3.png" />
+      <FilePathData Path="texture/student3-4.png" />
+      <FilePathData Path="texture/student3-5.png" />
+      <FilePathData Path="texture/student3-6.png" />
+      <FilePathData Path="texture/student3-7.png" />
+      <FilePathData Path="texture/student4.png" />
+      <FilePathData Path="texture/student4-1.png" />
+      <FilePathData Path="texture/student4-2.png" />
+      <FilePathData Path="texture/student4-3.png" />
+      <FilePathData Path="texture/student5.png" />
+      <FilePathData Path="texture/student5-1.png" />
+      <FilePathData Path="texture/student5-2.png" />
+      <FilePathData Path="texture/student5-3.png" />
+      <FilePathData Path="texture/student6.png" />
+      <FilePathData Path="texture/student6-1.png" />
+      <FilePathData Path="texture/student6-2.png" />
+      <FilePathData Path="texture/student6-3.png" />
+      <FilePathData Path="texture/student6-3bird.png" />
+    </ImageFiles>
+    <MaxSize Width="4096" Height="4096" />
+  </Content>
+</PlistInfoProjectFile>

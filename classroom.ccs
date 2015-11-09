@@ -1,0 +1,54 @@
+<Solution>
+  <PropertyGroup Name="classroom" Version="2.3.2.3" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Project Name="MainScene.csd" Type="Scene" />
+        <Image Name="HelloWorld.png" />
+        <PlistInfo Name="main_texture.csi" Type="Plist" />
+        <Folder Name="texture">
+          <Image Name="chalk-box.png" />
+          <Image Name="chalk.png" />
+          <Image Name="desk1.png" />
+          <Image Name="desk2.png" />
+          <Image Name="desk3.png" />
+          <Image Name="desk4.png" />
+          <Image Name="desk5.png" />
+          <Image Name="desk6.png" />
+          <Image Name="hair.png" />
+          <Image Name="love.png" />
+          <Image Name="plane.png" />
+          <Image Name="student1-1.png" />
+          <Image Name="student1-2.png" />
+          <Image Name="student1-3.png" />
+          <Image Name="student1.png" />
+          <Image Name="student2-1.png" />
+          <Image Name="student2-2.png" />
+          <Image Name="student2-3.png" />
+          <Image Name="student2.png" />
+          <Image Name="student3-1.png" />
+          <Image Name="student3-2.png" />
+          <Image Name="student3-3.png" />
+          <Image Name="student3-4.png" />
+          <Image Name="student3-5.png" />
+          <Image Name="student3-6.png" />
+          <Image Name="student3-7.png" />
+          <Image Name="student3.png" />
+          <Image Name="student4-1.png" />
+          <Image Name="student4-2.png" />
+          <Image Name="student4-3.png" />
+          <Image Name="student4.png" />
+          <Image Name="student5-1.png" />
+          <Image Name="student5-2.png" />
+          <Image Name="student5-3.png" />
+          <Image Name="student5.png" />
+          <Image Name="student6-1.png" />
+          <Image Name="student6-2.png" />
+          <Image Name="student6-3.png" />
+          <Image Name="student6-3bird.png" />
+          <Image Name="student6.png" />
+        </Folder>
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>
